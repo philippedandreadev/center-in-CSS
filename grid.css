@@ -1,0 +1,20 @@
+body {
+    background-color:slategray;
+    min-height: 100vh;
+    color: white;
+    display: grid;
+    place-content: center;
+}
+a {
+    color: white;
+    font-size: 1.4em;
+}
+.content {
+    background-color:teal;
+    height: 500px;
+    width: 500px;
+    display: grid;
+    /* Centrage des éléments de la div en largeur et en hauteur 
+    Raccourci de justify-content: center; et align-items: center;*/
+    place-content: center;
+}

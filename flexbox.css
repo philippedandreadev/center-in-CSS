@@ -1,0 +1,15 @@
+body {
+    background-color:steelblue;
+    color: white;
+    
+}
+.content {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+a {
+    color: white;
+    font-size: 1.4em;
+}
